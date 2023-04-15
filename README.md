@@ -6,7 +6,7 @@ This demonstration is not made with optimisation in mind but there are many ways
 
 ## **NOTE**
 <br>
-This repository requires my <a href="https://github.com/TheCelticGuy/AStar-Pathfinding-Algorithm">A* Pathfinding Algorithm Repository</a> to work since it uses the A* pathfinding algorithm to calculate the flowfields. So make sure you import that repository aswell.
+This repository requires my <a href="https://github.com/DaveTheCelt/AStar">A* Pathfinding Algorithm Repository</a> to work since it uses the A* pathfinding algorithm to calculate the flowfields. So make sure you import that repository aswell.
 
 # Preview
 
